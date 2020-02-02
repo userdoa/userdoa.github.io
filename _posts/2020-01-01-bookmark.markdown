@@ -13,11 +13,11 @@ tags: [DoA, bookmark]
 
 ## educational institution(university)
 
-서울대 http://www.snu.ac.kr/index.html,
-포항공대 ,
-카이스트 ,
-연세대 ,
-고려대 ,
-성균관대 ,
-한양대 
+서울대 http://www.snu.ac.kr/index.html <br>
+포항공대 <br>
+카이스트 <br>
+연세대 <br>
+고려대 <br>
+성균관대 <br>
+한양대 <br>
 
