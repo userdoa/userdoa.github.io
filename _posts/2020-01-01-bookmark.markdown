@@ -13,12 +13,12 @@ tags: [DoA, bookmark]
 
 ## Educational Institution(University)
 
-서울대 http://www.snu.ac.kr/index.html <br>
-포항공대 http://www.postech.ac.kr/ <br>
-카이스트 https://www.kaist.ac.kr/html/kr/index.html <br>
-연세대 https://www.yonsei.ac.kr/sc/ <br>
-고려대 http://www.korea.ac.kr/mbshome/mbs/university/index.do <br>
-성균관대 https://www.skku.edu/skku/index.do <br>
-한양대 https://www.hanyang.ac.kr/ <br>
-이화여대 http://www.ewha.ac.kr/mbs/ewhakr/index.jsp <br>
+- 서울대 http://www.snu.ac.kr/index.html
+- 포항공대 http://www.postech.ac.kr/
+- 카이스트 https://www.kaist.ac.kr/html/kr/index.html
+- 연세대 https://www.yonsei.ac.kr/sc/ 
+- 고려대 http://www.korea.ac.kr/mbshome/mbs/university/index.do 
+- 성균관대 https://www.skku.edu/skku/index.do 
+- 한양대 https://www.hanyang.ac.kr/ 
+- 이화여대 http://www.ewha.ac.kr/mbs/ewhakr/index.jsp 
 
