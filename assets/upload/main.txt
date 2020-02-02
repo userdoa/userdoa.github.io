@@ -1,2 +1,2 @@
-[description for file_name][1]
+[description for file][1]
 [1]:{{ site.url }}/assets/upload/file_name
