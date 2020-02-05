@@ -7,8 +7,6 @@ img: tubes.jpg
 tags: [Category]
 ---
 
----
-
 ## Category 1
 ### Topic 1
 
