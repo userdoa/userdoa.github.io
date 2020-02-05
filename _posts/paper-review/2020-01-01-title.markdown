@@ -7,6 +7,5 @@ img: greyscale_tubes.jpg
 tags: [DoA, paper review]
 ---
 
----
 
 ## ImageNet Classification with Deep Convolutional Neural Networks
