@@ -75,9 +75,25 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 |:------|:-------|:--------------|:---------|
 |blank  |wood    |None           |risk      |
 
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
 <br><br><br>
 
 ### 4.1 Data Augmentation
+
+<a href="https://www.w3schools.com/tags/default.asp">html tags</a>
+
+<br><br><br>
+
 ### 4.2 Dropout
 
 ---
