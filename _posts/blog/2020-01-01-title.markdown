@@ -70,6 +70,13 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ---
 
 ## 4 Reducing Overfitting
+
+|object  |descripiton                        |
+|:-------|:----------------------------------|
+|wood    |the material that trees are made of|
+
+<br><br><br>
+
 ### 4.1 Data Augmentation
 ### 4.2 Dropout
 
