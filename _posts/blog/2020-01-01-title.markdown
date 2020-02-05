@@ -71,9 +71,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ## 4 Reducing Overfitting
 
-|table  |object  |descripiton    |
-|:------|:-------|:--------------|
-|blank  |wood    |None           |
+|table  |object  |descripiton    |caution   |
+|:------|:-------|:--------------|:---------|
+|blank  |wood    |None           |risk      |
 
 <br><br><br>
 
