@@ -71,9 +71,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ## 4 Reducing Overfitting
 
-|table  |object  |descripiton                        |
-|:------|:-------|:----------------------------------|
-|blank  |wood    |the material that trees are made of|
+|table  |object  |descripiton    |
+|:------|:-------|:--------------|
+|blank  |wood    |None           |
 
 <br><br><br>
 
