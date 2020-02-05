@@ -7,7 +7,6 @@ img: greyscale_blog.jpg
 tags: [DoA, blog]
 ---
 
----
 
 # ImageNet Classification with Deep Convolutional Neural Networks
 
