@@ -13,20 +13,20 @@ tags: [DoA, blog]
 ## 2020 - 03
 
 - <a href="https://userdoa.github.io/blog/title/">title</a>
-- <a href="https://userdoa.github.io/">title 2</a>
-- <a href="https://userdoa.github.io/">title 3</a>
+- <a href="https://userdoa.github.io/blog/">title 2</a>
+- <a href="https://userdoa.github.io/blog/">title 3</a>
 
 
 ## 2020 - 02
 
-- <a href="https://userdoa.github.io/">title 1</a>
-- <a href="https://userdoa.github.io/">title 2</a>
-- <a href="https://userdoa.github.io/">title 3</a>
+- <a href="https://userdoa.github.io/blog/">title 1</a>
+- <a href="https://userdoa.github.io/blog/">title 2</a>
+- <a href="https://userdoa.github.io/blog/">title 3</a>
 
 
 ## 2020 - 01
 
-- <a href="https://userdoa.github.io/">title 1</a>
-- <a href="https://userdoa.github.io/">title 2</a>
-- <a href="https://userdoa.github.io/">title 3</a>
+- <a href="https://userdoa.github.io/blog/">title 1</a>
+- <a href="https://userdoa.github.io/blog/">title 2</a>
+- <a href="https://userdoa.github.io/blog/">title 3</a>
 
