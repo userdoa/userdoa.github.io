@@ -38,6 +38,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ## 2 The Dataset
 
+```python
+def func(variable):
+    return 'hello, world'
+```
+
 ---
 
 ## 3 The Architecture
