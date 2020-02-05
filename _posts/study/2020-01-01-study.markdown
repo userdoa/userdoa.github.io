@@ -7,8 +7,6 @@ img: study.jpg
 tags: [Category]
 ---
 
----
-
 ## Category 1
 ### Topic 1
 
