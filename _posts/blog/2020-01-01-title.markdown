@@ -75,7 +75,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 |:------|:-------|:--------------|:---------|
 |blank  |wood    |None           |risk      |
 
-<table>
+<table class="test">
   <tr>
     <th>Month</th>
     <th>Savings</th>
