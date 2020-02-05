@@ -38,6 +38,12 @@ def func(variable):
     return 'hello, world'
 ```
 
+{% highlight python %}
+def func(variable):
+    return 'hello, world'
+{% endhighlight %}
+
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
