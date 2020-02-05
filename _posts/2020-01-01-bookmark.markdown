@@ -3,7 +3,6 @@ layout: post
 title:  bookmark
 date:   2020-01-01 13:32:20 +0300
 img: bookmark.jpg
-tags: [DoA]
 ---
 
 
