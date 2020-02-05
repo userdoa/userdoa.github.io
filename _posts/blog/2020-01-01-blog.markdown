@@ -4,7 +4,7 @@ title:  blog
 permalink: /blog/
 date:   2020-01-01 13:32:20 +0300
 img: blog.jpg
-tags: [DoA, Category]
+tags: [Category]
 ---
 
 ---
