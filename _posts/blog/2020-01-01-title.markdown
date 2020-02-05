@@ -111,4 +111,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ## 7 Discussion
 
-[1]:{{ site.url }}/assets/upload/alexnet.pdf
+[1]:{{ site.url }}/assets/upload/note.hwp
