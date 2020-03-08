@@ -10,3 +10,5 @@ tags: [study]
 
 ## ImageNet Classification with Deep Convolutional Neural Networks
 
+win + shift + s
+![image](https://user-images.githubusercontent.com/54208024/76163197-7636bf00-6187-11ea-80f4-b95f6c159e9b.png)
