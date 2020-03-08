@@ -12,3 +12,21 @@ tags: [study]
 
 win + shift + s
 ![image](https://user-images.githubusercontent.com/54208024/76163197-7636bf00-6187-11ea-80f4-b95f6c159e9b.png)
+
+
+# heading1
+<h1>heading1</h1>
+## heading2
+### heading3
+
+
+- list1
+- list2
+- list3
+- list4
+
+
+|tilte1|tile2|
+|:---|:---|
+|a|b|
+|c|d|
