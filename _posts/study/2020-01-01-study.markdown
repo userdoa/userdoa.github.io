@@ -11,7 +11,7 @@ tags: [Category]
 ### Topic 1
 
 - <a href="https://userdoa.github.io/study/doa/">title 1</a>
-- <a href="https://userdoa.github.io/">title 2</a>
+- <a href="https://userdoa.github.io/study/doa/">doa</a>
 - <a href="https://userdoa.github.io/">title 3</a>
 
 ### Topic 2
